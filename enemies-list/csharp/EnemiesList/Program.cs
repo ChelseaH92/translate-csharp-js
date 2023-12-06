@@ -17,7 +17,6 @@ foreach (Enemy myEnemy in enemies)
     }
 }
 
-
 // A function to make and return list of enemies
 List<Enemy> GetEnemies()
 {
